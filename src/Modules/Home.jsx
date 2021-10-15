@@ -21,7 +21,7 @@ const Home = ({history}) => {
               <div>
                 <div className="">
                   <span className="color-customBlueLight h5 font-weight-bold">Hello !</span><br />
-                  <span className="color-customBlue h1 font-weight-bold">I'm Sachin</span><br />
+                  <span className="color-customBlue h1 font-weight-bold">I'm Rohit</span><br />
                   <span className="color-customBlueLight h3">I'm a <span className="font-weight-bold">full stack</span> developer</span><br /><br />
                   <span className="color-customBlueLight h5">I specialize in developing and deploying responsive websites and web applications</span><br />
                 </div>
